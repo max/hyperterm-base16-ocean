@@ -1,0 +1,16 @@
+{
+  "name": "hyperterm-base16-ocean",
+  "version": "1.0.0",
+  "description": "Hyperterm theme based on base16-ocean",
+  "main": "index.js",
+  "repository": "https://github.com/max/hyperterm-base16-ocean",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "colors",
+    "base16",
+    "ocean"
+  ],
+  "author": "Max Schoening",
+  "license": "MIT"
+}
