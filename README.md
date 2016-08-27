@@ -10,6 +10,6 @@ A [Hyperterm][hyperterm] port of the [Base16 Ocean Theme][base16]
 
 ![vim](https://cloud.githubusercontent.com/assets/111631/18025348/28f9c54c-6bdc-11e6-9d35-a377d22d2b25.png)
 
-[hperterm]: https://hyperterm.org 
+[hyperterm]: https://hyperterm.org
 [base16]: https://github.com/chriskempson/base16-vim/blob/master/colors/base16-ocean.vim
 
